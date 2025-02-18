@@ -1090,11 +1090,6 @@ az group delete --name $RESOURCE_GROUP --yes --no-wait
 
 
 
-# This is it !
-
-![image-20201106220446319](./docs/images/dance-of-joy.gif)
-
-
 
 
 
